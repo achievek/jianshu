@@ -1,0 +1,3 @@
+export const CHANGE_HOME_DATA="home/CHANGE_HOME_DATA"
+export const GET_MORE_HOME_DATA="home/GET_MORE_HOME_DATA"
+export const TOGGLE_SHOW="home/TOGGLE_SHOW"
